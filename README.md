@@ -26,6 +26,8 @@
 https://drive.google.com/file/d/1Y-mhqYlGJstaKz5_-y7Vklgbsj57J5gm/view?usp=sharing
 ■テーブル定義書
 https://docs.google.com/spreadsheets/d/1T4nEdo7m0uGvABKou6-wgxDK008hHzDgpoL65Zdyemo/edit?usp=sharing
+■アプリケーション詳細設計書
+https://docs.google.com/spreadsheets/d/1OtfoXkdaY07UvF_qbob7X-X7lQU3HlAtI_9NgRFLnAc/edit?usp=sharing
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/13uJJj0LFuhaJb1vr1h1QFJdEBklZbsBnxLdm-IuGqt8/edit?usp=sharing
